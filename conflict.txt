@@ -1,2 +1,3 @@
 Hello class
 Lets learn about conflicts.
+Line three from the main branch.
